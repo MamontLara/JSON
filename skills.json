@@ -6,8 +6,8 @@
    "Sniffer": "Charles, Fiddler",
    "StressTesting": "JMeter", 
    "API": "Postman",
-   "SQL": "CREATE, ALTER, SELECT, GROUP BY, JOIN"
-   "Avtomation": "Phyton"
+   "SQL": "CREATE, ALTER, SELECT, GROUP BY, JOIN",
+   "Avtomation": "Phyton",
    "VPN": "How it works, why it is needed, how to use it, options for tools", 
    "Dev tools": "Google Chrome, FireFox"
 }
